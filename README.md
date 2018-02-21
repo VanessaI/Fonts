@@ -10,5 +10,5 @@ All files are .ttf format.
 *  Double-click on the .ttf file. A window will prompt you to install the font.
 
 ### Windows Vista, Windows 7 and greater:
-*  Right click on the TTF font and choose install. Restart the application that needs the font (note: you may need to restart your computer).
+*  Right click on the TTF font and choose install. <br /> Restart the application that needs the font (note: you may need to restart your computer).
 
