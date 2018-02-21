@@ -4,8 +4,10 @@ An easy place to download some of your favorite fonts.
 ## Specs
 All files are .ttf format. 
 
-### MAC users:
+### Mac:
+'''
   Move the .ttf file to the *Fonts* folder (path: Library/Fonts/)
+'''
   or
   Double-click on the .ttf file. A window will prompt you to install the font.
 
